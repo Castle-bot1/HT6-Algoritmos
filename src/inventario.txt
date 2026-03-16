@@ -1,0 +1,13 @@
+Electrónica | Laptop HP
+Electrónica | Smartphone Samsung
+Electrónica | Tablet iPad
+Ropa | Camiseta Nike
+Ropa | Pantalón Levi's
+Hogar | Silla de oficina
+Hogar | Lámpara de escritorio
+Deportes | Balón de fútbol
+Deportes | Raqueta de tenis
+Alimentos | Café
+Alimentos | Té
+Libros | Novela
+Libros | Diccionario
